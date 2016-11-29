@@ -1,0 +1,19 @@
+{
+  "name": "learnnode",
+  "version": "0.0.1",
+  "description": "Learning some node stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmorris/nodejsbasics.git"
+  },
+  "author": "Andrew Morrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmorris/nodejsbasics/issues"
+  },
+  "homepage": "https://github.com/asmorris/nodejsbasics#readme"
+}
