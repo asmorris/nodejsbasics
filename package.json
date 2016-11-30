@@ -2,7 +2,7 @@
   "name": "learnnode",
   "version": "0.0.1",
   "description": "Learning some node stuff",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/asmorris/nodejsbasics/issues"
   },
-  "homepage": "https://github.com/asmorris/nodejsbasics#readme"
+  "homepage": "https://github.com/asmorris/nodejsbasics#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.0"
+  }
 }
